@@ -3,11 +3,42 @@
   "WorkspaceRootPath": "D:\\devel\\mapua\\its152l\\le2\\AbarquezLE2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|AbarquezBlogDB||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{0A2AE6C1-9416-4353-BDE3-82D0F907906E}|BlogDataLibrary\\BlogDataLibrary.csproj|d:\\devel\\mapua\\its152l\\le2\\abarquezle2\\blogdatalibrary\\data\\sqldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A2AE6C1-9416-4353-BDE3-82D0F907906E}|BlogDataLibrary\\BlogDataLibrary.csproj|solutionrelative:blogdatalibrary\\data\\sqldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8CE0631-186A-44FA-ABD8-A2DC48F3DC77}|AbarquezBlogDB\\AbarquezBlogDB.sqlproj|D:\\devel\\mapua\\its152l\\le2\\AbarquezLE2\\AbarquezBlogDB\\AbarquezBlogDB.sqlproj||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|7efd4d20-ff83-4e79-9a2a-5bbcd1d9e512",
-      "RelativeMoniker": "D:0:0:{F8CE0631-186A-44FA-ABD8-A2DC48F3DC77}|AbarquezBlogDB\\AbarquezBlogDB.sqlproj|solutionrelative:AbarquezBlogDB\\AbarquezBlogDB.sqlproj||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|7efd4d20-ff83-4e79-9a2a-5bbcd1d9e512"
+      "AbsoluteMoniker": "D:0:0:{F5F84475-A365-4622-821D-D6A890BB309A}|BlogTestUI\\BlogTestUI.csproj|d:\\devel\\mapua\\its152l\\le2\\abarquezle2\\blogtestui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F84475-A365-4622-821D-D6A890BB309A}|BlogTestUI\\BlogTestUI.csproj|solutionrelative:blogtestui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2AE6C1-9416-4353-BDE3-82D0F907906E}|BlogDataLibrary\\BlogDataLibrary.csproj|d:\\devel\\mapua\\its152l\\le2\\abarquezle2\\blogdatalibrary\\data\\isqldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A2AE6C1-9416-4353-BDE3-82D0F907906E}|BlogDataLibrary\\BlogDataLibrary.csproj|solutionrelative:blogdatalibrary\\data\\isqldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BlogDB/True/SqlTable/dbo.Posts.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2AE6C1-9416-4353-BDE3-82D0F907906E}|BlogDataLibrary\\BlogDataLibrary.csproj|d:\\devel\\mapua\\its152l\\le2\\abarquezle2\\blogdatalibrary\\database\\isqldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A2AE6C1-9416-4353-BDE3-82D0F907906E}|BlogDataLibrary\\BlogDataLibrary.csproj|solutionrelative:blogdatalibrary\\database\\isqldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8CE0631-186A-44FA-ABD8-A2DC48F3DC77}|AbarquezBlogDB\\AbarquezBlogDB.sqlproj|D:\\devel\\mapua\\its152l\\le2\\AbarquezLE2\\AbarquezBlogDB\\Stored Procedures\\spUsers_Register.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{F8CE0631-186A-44FA-ABD8-A2DC48F3DC77}|AbarquezBlogDB\\AbarquezBlogDB.sqlproj|solutionrelative:AbarquezBlogDB\\Stored Procedures\\spUsers_Register.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BlogDB/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2AE6C1-9416-4353-BDE3-82D0F907906E}|BlogDataLibrary\\BlogDataLibrary.csproj|d:\\devel\\mapua\\its152l\\le2\\abarquezle2\\blogdatalibrary\\database\\sqldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A2AE6C1-9416-4353-BDE3-82D0F907906E}|BlogDataLibrary\\BlogDataLibrary.csproj|solutionrelative:blogdatalibrary\\database\\sqldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F84475-A365-4622-821D-D6A890BB309A}|BlogTestUI\\BlogTestUI.csproj|d:\\devel\\mapua\\its152l\\le2\\abarquezle2\\blogtestui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F5F84475-A365-4622-821D-D6A890BB309A}|BlogTestUI\\BlogTestUI.csproj|solutionrelative:blogtestui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8CE0631-186A-44FA-ABD8-A2DC48F3DC77}|AbarquezBlogDB\\AbarquezBlogDB.sqlproj|D:\\devel\\mapua\\its152l\\le2\\AbarquezLE2\\AbarquezBlogDB\\Stored Procedures\\spUsers_Register.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{F8CE0631-186A-44FA-ABD8-A2DC48F3DC77}|AbarquezBlogDB\\AbarquezBlogDB.sqlproj|solutionrelative:AbarquezBlogDB\\Stored Procedures\\spUsers_Register.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,18 +48,115 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.Posts [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BlogDB/True/SqlTable/dbo.Posts.sql",
+              "ToolTip": "dbo.Posts [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-20T05:07:00.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "spUsers_Register.sql ",
+              "DocumentMoniker": "D:\\devel\\mapua\\its152l\\le2\\AbarquezLE2\\AbarquezBlogDB\\Stored Procedures\\spUsers_Register.sql",
+              "RelativeDocumentMoniker": "AbarquezBlogDB\\Stored Procedures\\spUsers_Register.sql",
+              "ToolTip": "D:\\devel\\mapua\\its152l\\le2\\AbarquezLE2\\AbarquezBlogDB\\Stored Procedures\\spUsers_Register.sql\r\n(localdb)\\ProjectModels.AbarquezBlogDB\r\n(LAPEE\\Angela)",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-20T06:51:39.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISqlDataAccess.cs",
+              "DocumentMoniker": "D:\\devel\\mapua\\its152l\\le2\\AbarquezLE2\\BlogDataLibrary\\Database\\ISqlDataAccess.cs",
+              "RelativeDocumentMoniker": "BlogDataLibrary\\Database\\ISqlDataAccess.cs",
+              "ToolTip": "D:\\devel\\mapua\\its152l\\le2\\AbarquezLE2\\BlogDataLibrary\\Database\\ISqlDataAccess.cs",
+              "RelativeToolTip": "BlogDataLibrary\\Database\\ISqlDataAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T06:26:30.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AbarquezBlogDB",
-              "DocumentMoniker": "D:\\devel\\mapua\\its152l\\le2\\AbarquezLE2\\AbarquezBlogDB\\AbarquezBlogDB.sqlproj",
-              "RelativeDocumentMoniker": "AbarquezBlogDB\\AbarquezBlogDB.sqlproj",
-              "ToolTip": "D:\\devel\\mapua\\its152l\\le2\\AbarquezLE2\\AbarquezBlogDB\\AbarquezBlogDB.sqlproj",
-              "RelativeToolTip": "AbarquezBlogDB\\AbarquezBlogDB.sqlproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-06-11T09:49:59.441Z",
+              "Title": "SqlData.cs",
+              "DocumentMoniker": "D:\\devel\\mapua\\its152l\\le2\\AbarquezLE2\\BlogDataLibrary\\Data\\SqlData.cs",
+              "RelativeDocumentMoniker": "BlogDataLibrary\\Data\\SqlData.cs",
+              "ToolTip": "D:\\devel\\mapua\\its152l\\le2\\AbarquezLE2\\BlogDataLibrary\\Data\\SqlData.cs",
+              "RelativeToolTip": "BlogDataLibrary\\Data\\SqlData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:49:23.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\devel\\mapua\\its152l\\le2\\AbarquezLE2\\BlogTestUI\\Program.cs",
+              "RelativeDocumentMoniker": "BlogTestUI\\Program.cs",
+              "ToolTip": "D:\\devel\\mapua\\its152l\\le2\\AbarquezLE2\\BlogTestUI\\Program.cs",
+              "RelativeToolTip": "BlogTestUI\\Program.cs",
+              "ViewState": "AQIAACoBAAAAAAAAAAAgwEYBAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:50:17.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ISqlData.cs",
+              "DocumentMoniker": "D:\\devel\\mapua\\its152l\\le2\\AbarquezLE2\\BlogDataLibrary\\Data\\ISqlData.cs",
+              "RelativeDocumentMoniker": "BlogDataLibrary\\Data\\ISqlData.cs",
+              "ToolTip": "D:\\devel\\mapua\\its152l\\le2\\AbarquezLE2\\BlogDataLibrary\\Data\\ISqlData.cs",
+              "RelativeToolTip": "BlogDataLibrary\\Data\\ISqlData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:35:06.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dbo.Users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BlogDB/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "dbo.Users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-19T14:00:37.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SqlDataAccess.cs",
+              "DocumentMoniker": "D:\\devel\\mapua\\its152l\\le2\\AbarquezLE2\\BlogDataLibrary\\Database\\SqlDataAccess.cs",
+              "RelativeDocumentMoniker": "BlogDataLibrary\\Database\\SqlDataAccess.cs",
+              "ToolTip": "D:\\devel\\mapua\\its152l\\le2\\AbarquezLE2\\BlogDataLibrary\\Database\\SqlDataAccess.cs",
+              "RelativeToolTip": "BlogDataLibrary\\Database\\SqlDataAccess.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAcwCQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T06:26:32.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\devel\\mapua\\its152l\\le2\\AbarquezLE2\\BlogTestUI\\appsettings.json",
+              "RelativeDocumentMoniker": "BlogTestUI\\appsettings.json",
+              "ToolTip": "D:\\devel\\mapua\\its152l\\le2\\AbarquezLE2\\BlogTestUI\\appsettings.json",
+              "RelativeToolTip": "BlogTestUI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-20T06:36:08.137Z",
               "EditorCaption": ""
             }
           ]

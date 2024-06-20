@@ -57,10 +57,16 @@
   <ItemGroup>
     <Folder Include="Properties" />
     <Folder Include="Tables" />
+    <Folder Include="Stored Procedures" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="Tables\Users.sql" />
     <Build Include="Tables\Posts.sql" />
+    <Build Include="Stored Procedures\spUsers_Authenticate.sql" />
+    <Build Include="Stored Procedures\spUsers_Register.sql" />
+    <Build Include="Stored Procedures\spPosts_Insert.sql" />
+    <Build Include="Stored Procedures\spPosts_List.sql" />
+    <Build Include="Stored Procedures\spPosts_Details.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="AbarquezBlogDB.publish.xml" />

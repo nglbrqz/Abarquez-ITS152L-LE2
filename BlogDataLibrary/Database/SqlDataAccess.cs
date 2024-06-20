@@ -54,5 +54,18 @@ namespace BlogDataLibrary.Database
                 connection.Execute(sqlStatement, parameters, commandType: commandType);
             }
         }
+
+        // Used to check if the username exists and the user cannot use it again to register
+        public bool UsernameExists(string username)
+        {
+            string connectionString = _config.GetConnectionString("SqlDb");
+            string sql = "SELECT COUNT(1) FROM Users WHERE Username = @Username";
+
+            using (IDbConnection connection = new SqlConnection(connectionString))
+            {
+                int count = connection.ExecuteScalar<int>(sql, new { Username = username });
+                return count > 0;
+            }
+        }
     }
 }

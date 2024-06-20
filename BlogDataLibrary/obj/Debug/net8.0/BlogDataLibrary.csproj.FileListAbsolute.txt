@@ -10,3 +10,4 @@ D:\devel\mapua\its152l\le2\AbarquezLE2\BlogDataLibrary\obj\Debug\net8.0\BlogData
 D:\devel\mapua\its152l\le2\AbarquezLE2\BlogDataLibrary\obj\Debug\net8.0\refint\BlogDataLibrary.dll
 D:\devel\mapua\its152l\le2\AbarquezLE2\BlogDataLibrary\obj\Debug\net8.0\BlogDataLibrary.pdb
 D:\devel\mapua\its152l\le2\AbarquezLE2\BlogDataLibrary\obj\Debug\net8.0\ref\BlogDataLibrary.dll
+D:\devel\mapua\its152l\le2\AbarquezLE2\BlogDataLibrary\obj\Debug\net8.0\BlogDataLibrary.sourcelink.json
